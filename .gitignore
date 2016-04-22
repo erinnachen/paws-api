@@ -1,2 +1,6 @@
 *.pyc
 venv/
+image
+synset_words.txt
+vgg16_weights.h5
+
